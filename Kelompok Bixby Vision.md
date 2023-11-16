@@ -52,6 +52,18 @@ AR memungkinkan interaksi langsung dengan elemen-elemen digital yang ditambahkan
 - Marker-based dan Markerless AR :
 AR dapat dibagi menjadi dua kategori utama. Marker-based AR menggunakan marker fisik (contohnya kode QR) sebagai titik referensi untuk menempatkan objek virtual. Sedangkan markerless AR menggunakan fitur lingkungan fisik, seperti tembok atau objek, tanpa memerlukan marker tambahan.
 
+4. Algoritma Deteksi Objek
+
+Algoritma deteksi objek adalah serangkaian langkah dan prosedur yang dirancang untuk secara otomatis mengidentifikasi dan menemukan objek-objek tertentu dalam gambar atau video. Tujuan utama dari algoritma ini adalah untuk menentukan lokasi dan kelas (jenis) dari objek-objek tersebut dalam suatu konteks visual.
+
+- Faster R-CNN (Region-based Convolutional Neural Network):
+adalah sebuah arsitektur dalam bidang pengolahan citra dan deteksi objek. Faster R-CNN mendemonstrasikan keunggulan dalam kecepatan dan akurasi deteksi objek dibandingkan dengan pendahulunya. Ini telah menjadi landasan untuk banyak pengembangan selanjutnya dalam bidang deteksi objek dengan menggunakan deep learning.
+
+- SSD (Single Shot Multibox Detector) :
+adalah jenis algoritma deteksi objek yang digunakan dalam visi komputer dan pemrosesan gambar. Algoritma ini dirancang untuk mengidentifikasi dan menemukan objek dalam sebuah gambar secara real-time. SSD sangat populer karena efisiensinya dan akurasinya dalam mendeteksi objek pada skala yang berbeda dalam suatu gambar.
+
+- YOLO (You Only Look Once) :
+adalah sebuah algoritma deteksi objek yang terkenal dalam bidang computer vision. Dikembangkan oleh Joseph Redmon, YOLO membedakan dirinya dengan kemampuan untuk melakukan deteksi objek secara real-time dengan tingkat akurasi yang tinggi.
 
 #### D. Knowledge Base
 
